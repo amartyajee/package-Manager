@@ -1,0 +1,11 @@
+{
+  "name": "mypackagemanager",
+  "version": "1.0.0",
+  "description": "Check Dependency among Packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amartya Chatterjee",
+  "license": "ISC"
+}
